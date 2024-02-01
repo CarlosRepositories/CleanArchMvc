@@ -1,0 +1,15 @@
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.deps.json
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.dll
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.pdb
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.CopyComplete
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.dll
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\refint\CleanArchMvc.Application.dll
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.pdb
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\ref\CleanArchMvc.Application.dll

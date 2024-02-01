@@ -1,0 +1,11 @@
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net7.0\CleanArchMvc.Domain.deps.json
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net7.0\CleanArchMvc.Domain.dll
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net7.0\CleanArchMvc.Domain.pdb
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.AssemblyInfo.cs
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.dll
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net7.0\refint\CleanArchMvc.Domain.dll
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.pdb
+C:\Users\carrl\OneDrive\Área de Trabalho\estudos\C_Sharp\CleanArchtecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net7.0\ref\CleanArchMvc.Domain.dll
